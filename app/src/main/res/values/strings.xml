@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BUDGE IT BABY</string>
+    <string name="button_send">NEXT</string>
+    <string name="per_year">Add number here.</string>
+    <string name="per_month">Add number here.</string>
+    <string name="per_week">Add number here.</string>
+    <string name="monthly_income"></string>
+    <string name="income_on_expenses">Monthly income.</string>
+    <string name="housing">Add $ here.</string>
+    <string name="food">Add donut $ here. </string>
+    <string name="transport">Car stuff. </string>
+    <string name="other">Add Other.</string>
+    <string name="monthly_expenses">0</string>
+    <string name="extra_cash"></string>
+</resources>
